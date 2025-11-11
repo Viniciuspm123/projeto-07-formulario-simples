@@ -6,8 +6,6 @@ O código foca em criar uma experiência limpa e moderna para o usuário, garant
 ✨ Visão Geral e Destaques
 O formulário é projetado para ser centralizado na tela, com um design de "cartão" que o destaca do fundo. O principal destaque do CSS é o tratamento dos campos de input para melhorar a usabilidade.
 
-HTML Semântico: Utilização de <main>, <section>, <label> e attributes como id e name corretamente.
-
 Centralização Perfeita: Uso de Flexbox (display: flex, justify-content: center, align-items: center) no body para centralizar o formulário vertical e horizontalmente.
 
 Foco na Usabilidade (CSS): A aplicação do pseudo-seletor :focus nos campos de input garante que o usuário saiba exatamente onde está digitando, melhorando a acessibilidade e a experiência geral.
