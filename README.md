@@ -20,13 +20,7 @@ CSS3: Estilização, layout Flexbox, e animações/transições suaves para o bo
 📁 Estrutura do Projeto
 Para que o projeto seja executado corretamente, a estrutura de pastas deve ser:
 
-/Projeto-Formulario-Simples/
-├── index.html
-├── README.md (Este arquivo)
-├── css/
-│   └── style.css
-└── assets/
-    └── logo.png (Favicon)
+Projeto-Formulario-Simples/ ├── index.html ├── README.md (Este arquivo) ├── css/ │ └── style.css └── assets/ └── logo.png (Favicon)
     
 ⚙️ Como Configurar
 Baixe: Faça o download ou crie os arquivos index.html e style.css nas pastas corretas.
