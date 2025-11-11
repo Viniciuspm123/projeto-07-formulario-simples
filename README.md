@@ -27,6 +27,7 @@ Para que o projeto seja executado corretamente, a estrutura de pastas deve ser:
 │   └── style.css
 └── assets/
     └── logo.png (Favicon)
+    
 ⚙️ Como Configurar
 Baixe: Faça o download ou crie os arquivos index.html e style.css nas pastas corretas.
 
